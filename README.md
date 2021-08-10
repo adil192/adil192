@@ -2,6 +2,11 @@
 [![Adil's github stats](https://github-readme-stats.vercel.app/api?username=adil192&show_icons=true&count_private=true&bg_color=130,1d79de,5030b8&title_color=fff&text_color=fff&icon_color=fff)](https://github-readme-stats.vercel.app/api?username=adil192&show_icons=true&count_private=true&bg_color=130,1d79de,5030b8&title_color=fff&text_color=fff&icon_color=fff)
 
 
+LineageOS local manifests:
+ - Samsung Galaxy S20 FE (4G Exynos) LineageOS 18.1: [r8s.xml](https://gist.github.com/adil192/2ec7d934027c1c8c7314138e94e97675)
+ - Galaxy Tab S7 (WiFi) LineageOS 17.1: [gts7lwifi.xml](https://gist.github.com/adil192/b503efb4bddfb111153ce8c6c6e66ad4)
+
+
 <!--
 **adil192/adil192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
