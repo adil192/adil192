@@ -13,7 +13,7 @@
 ### Experimental LineageOS local manifests:
 Download the following xml into your lineage_root/.repo/local_manifests folder (make it if it doesn't exist).
  - Samsung Galaxy S20 FE (4G Exynos) LineageOS 18.1: [r8s.xml](https://gist.github.com/adil192/2ec7d934027c1c8c7314138e94e97675)
- - Galaxy Tab S7 (WiFi) LineageOS 17.1: [gts7lwifi.xml](https://gist.github.com/adil192/b503efb4bddfb111153ce8c6c6e66ad4)
+ - <s>Galaxy Tab S7 (WiFi) LineageOS 17.1: [gts7lwifi.xml](https://gist.github.com/adil192/b503efb4bddfb111153ce8c6c6e66ad4)</s>
 
 
 ***
