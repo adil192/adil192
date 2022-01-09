@@ -19,8 +19,8 @@ Download the following xml into your lineage_root/.repo/local_manifests folder (
 ***
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adil192&show_icons=true&count_private=true&theme=graywhite&bg_color=35,d1fff2,eefffa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Adil's github stats](https://github-readme-stats.vercel.app/api?username=adil192&show_icons=true&count_private=true&theme=graywhite&bg_color=35,e7f3ff,dff0ff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adil192&show_icons=true&count_private=true&theme=graywhite&bg_color=35,d1fff2,f5fffc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Adil's github stats](https://github-readme-stats.vercel.app/api?username=adil192&show_icons=true&count_private=true&theme=graywhite&bg_color=35,f1f8ff,dff0ff)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
