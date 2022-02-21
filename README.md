@@ -2,9 +2,8 @@
 
 - 🔭 I’m currently studying Computer Science and Maths at the University of Manchester.
 - 📫 How to reach me:
-    - <s>Telegram: [@AdilHanney](https://t.me/AdilHanney)</s>
     - Email: [adilhanney@disroot.org](mailto:adilhanney@disroot.org)
-- 😄 Pronouns: he/they
+- 😄 Pronouns: they/them or he/him
 
 
 ***
