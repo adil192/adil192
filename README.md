@@ -3,6 +3,7 @@
 - 🔭 I’m currently studying Computer Science and Maths at the University of Manchester.
 - 📫 How to reach me:
     - Email: [adilhanney@disroot.org](mailto:adilhanney@disroot.org)
+    - For anything related to a repo, please post in its Issues section
 - 😄 Pronouns: they/them or he/him
 
 
