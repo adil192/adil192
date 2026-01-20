@@ -38,7 +38,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&include_all_commits=true&theme=dark&custom_title=Adil's%20GitHub%20stats
+          options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&include_all_commits=true&theme=dark&custom_title=Adil's%20GitHub%20stats&role=OWNER,ORGANIZATION_MEMBER
           path: dist/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -46,7 +46,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=dark&langs_count=8&hide=CMake,ShaderLab,C%23,C%2B%2B&layout=compact&exclude_repo=android_kernel_samsung_gts7,twrp_device_samsung_gts7lwifi,android10_kernel_samsung_gts7lwifi,android_device_samsung_gts7lwifi,android_kernel_samsung_exynos990,android_kernel_samsung_gts7lwifi-old,proprietary_vendor_samsung_gts7lwifi,android_device_samsung_r8s,proprietary_vendor_samsung_r8s,proprietary_vendor_samsung_sm8250-common,android_device_samsung_sm8250-common,android_device_samsung_exynos990-common,kernel_samsung_exynos990,proprietary_vendor_samsung_exynos990-common,recovery_device_samsung_r8s,PatientAccess_Patched,Stagecoach_Patched,social-old,web-repo,Adil-Hanney-Org&custom_title=Most%20used%20languages
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=dark&langs_count=8&hide=CMake,ShaderLab,C%23,C%2B%2B&layout=compact&exclude_repo=android_kernel_samsung_gts7,twrp_device_samsung_gts7lwifi,android10_kernel_samsung_gts7lwifi,android_device_samsung_gts7lwifi,android_kernel_samsung_exynos990,android_kernel_samsung_gts7lwifi-old,proprietary_vendor_samsung_gts7lwifi,android_device_samsung_r8s,proprietary_vendor_samsung_r8s,proprietary_vendor_samsung_sm8250-common,android_device_samsung_sm8250-common,android_device_samsung_exynos990-common,kernel_samsung_exynos990,proprietary_vendor_samsung_exynos990-common,recovery_device_samsung_r8s,PatientAccess_Patched,Stagecoach_Patched,social-old,web-repo,Adil-Hanney-Org&custom_title=Most%20used%20languages&role=OWNER,ORGANIZATION_MEMBER
           path: dist/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
