@@ -14,6 +14,7 @@ on:
   push:
     branches:
       - master
+      - staging
 
 jobs:
   generate:
@@ -38,7 +39,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&include_all_commits=true&theme=dark&custom_title=Adil's%20GitHub%20stats&role=OWNER,ORGANIZATION_MEMBER
+          options: username=${{ github.repository_owner }}&show_icons=true&role=OWNER,ORGANIZATION_MEMBER&count_private=true&theme=dark&custom_title=Adil's%20GitHub%20stats
           path: dist/stats.svg
           token: ${{ secrets.PAT }}
 
