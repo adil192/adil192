@@ -6,9 +6,17 @@
     - For anything related to a repo, please post in its Discussions or Issues section
 - 😄 Pronouns: they/them
 
-
-[<img src="https://raw.githubusercontent.com/adil192/adil192/snake/top-langs.svg" alt="Top Langs" height=180>](https://github.com/anuraghazra/github-readme-stats)
-[<img src="https://raw.githubusercontent.com/adil192/adil192/snake/stats.svg" alt="Adil's Github stats" height=180>](https://github.com/anuraghazra/github-readme-stats)
+<!-- https://github.com/stats-organization/github-stats-extended -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adil192/adil192/snake/top-langs.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adil192/adil192/snake/top-langs-light.svg">
+  <img alt="Top Langs" src="https://raw.githubusercontent.com/adil192/adil192/snake/top-langs.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adil192/adil192/snake/stats.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adil192/adil192/snake/stats-light.svg">
+  <img alt="Adil's Github stats" src="https://raw.githubusercontent.com/adil192/adil192/snake/stats.svg">
+</picture>
 
 <!-- By https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
 <picture>
