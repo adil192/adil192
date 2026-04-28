@@ -2,8 +2,9 @@
 
 - 🔭 Studied Computer Science and Maths at the University of Manchester.
 - 📫 How to reach me:
-    - Email: [adilhanney@disroot.org](mailto:adilhanney@disroot.org)
     - For anything related to a repo, please post in its Discussions or Issues section
+    - Otherwise email me at [adilhanney@disroot.org](mailto:adilhanney@disroot.org) for things *not* related to a repo.
+    - I receieve a lot of emails. If you email me with something that should be a Discussion or Issue, I am unlikely to respond.
 - 😄 Pronouns: they/them
 
 <!-- https://github.com/stats-organization/github-stats-extended -->
