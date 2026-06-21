@@ -6,7 +6,7 @@
     - Otherwise email me at `adilhanney🐌disroot.org` for things *not* related to a repo.
     - Thank you for your understanding!
 - 🤙🏽 Pronouns: they/them
-- 🤖 AI contributions (code, translations, issues, etc) are generally not accepted in any of my repos.
+- 🤖 I'm generally not accepting AI contributions (code, translations, issues, etc) in any of my repos.
 
 <!-- https://github.com/stats-organization/github-stats-extended -->
 <picture>
